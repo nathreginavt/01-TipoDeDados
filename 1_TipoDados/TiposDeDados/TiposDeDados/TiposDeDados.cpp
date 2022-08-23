@@ -6,6 +6,8 @@ using namespace std;
 
 int main()
 {
+    cout << "Estrutura de Dados";
+
     cout << "Tipos Numericos\n";
     cout << "===============\n";
     int i = 10;
